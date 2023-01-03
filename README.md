@@ -1,1 +1,1 @@
-# Cardiovascular-Disease-using-Na-ve-Bayes-Classifier
+# Cardiovascular-Disease-using-Naive-Bayes-Classifier
